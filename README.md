@@ -12,6 +12,7 @@ https://parceljs.org/
 - ES6 with Babel ✅
 https://babeljs.io/
 - SCSS ✅
+https://postcss.org/
 - Autoprefixer ✅
 https://github.com/postcss/autoprefixer
 - CSS Modules ✅
